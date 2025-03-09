@@ -1,3 +1,4 @@
+## About Me
 - 👋 Hi, I’m @JimJ821
 - 👀 I’m learning new skills as an AI programmer.
 
